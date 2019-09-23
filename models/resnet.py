@@ -1,0 +1,1 @@
+# Copied from https://github.com/fidler-lab/curve-gcn/code/Models/Encoder/resnet.py
